@@ -1,0 +1,469 @@
+# depslib dependency file v1.0
+1629159292 source:d:\pinho\basico2d\programabasicoopengl.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+	"ListaDeCoresRGB.h"
+
+1298986600 d:\pinho\basico2d\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\basico2d\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\basico2d\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\basico2d\gl\freeglut_ext.h
+
+1629314366 d:\pinho\basico2d\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1629314366 source:d:\pinho\basico2d\temporizador.cpp
+	"Temporizador.h"
+
+1597787603 source:d:\pinho\poligonos\exibepoligonos.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+
+1298986600 d:\pinho\poligonos\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\poligonos\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\poligonos\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\poligonos\gl\freeglut_ext.h
+
+1597783594 d:\pinho\poligonos\ponto.h
+	<iostream>
+
+1597787214 d:\pinho\poligonos\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1584988812 d:\pinho\poligonos\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1597787245 source:d:\pinho\poligonos\poligono.cpp
+	"Poligono.h"
+
+1597784052 source:d:\pinho\poligonos\ponto.cpp
+	"Ponto.h"
+
+1584988348 source:d:\pinho\poligonos\temporizador.cpp
+	"Temporizador.h"
+
+1621520030 source:d:\pinho\basico2d\basico2d\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1621514488 d:\pinho\basico2d\basico2d\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1298986600 d:\pinho\basico2d\basico2d\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\basico2d\basico2d\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\basico2d\basico2d\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\basico2d\basico2d\gl\freeglut_ext.h
+
+1621479118 source:d:\pinho\basico2d\basico2d\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1621479098 d:\pinho\basico2d\basico2d\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1629143624 d:\pinho\basico2d\basico2d\ponto.h
+	<iostream>
+
+1619656962 source:d:\pinho\basico2d\basico2d\ponto.cpp
+	"Ponto.h"
+
+1629145130 source:d:\pinho\basico2d\basico2d\programabasicoopengl.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+	"ListaDeCoresRGB.h"
+
+1584988812 d:\pinho\basico2d\basico2d\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1584988348 source:d:\pinho\basico2d\basico2d\temporizador.cpp
+	"Temporizador.h"
+
+1621520030 source:d:\pinho\basico2d\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1621514488 d:\pinho\basico2d\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1621479118 source:d:\pinho\basico2d\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1621479098 d:\pinho\basico2d\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1629228860 d:\pinho\basico2d\ponto.h
+	<iostream>
+
+1619656962 source:d:\pinho\basico2d\ponto.cpp
+	"Ponto.h"
+
+1629318962 source:d:\pinho\basico2d\interseccaoentretodasaslinhas.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Linha.h"
+	"Temporizador.h"
+
+1629318978 d:\pinho\basico2d\linha.h
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+
+1629228460 source:d:\pinho\basico2d\linha.cpp
+	<cstdlib>
+	"Linha.h"
+
+1630545640 source:c:\users\jean-lucca\desktop\basico2d-codeblocks\interseccaoentretodasaslinhas.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Linha.h"
+	"Faixas.h"
+	"Temporizador.h"
+	<vector>
+	<math.h>
+	<algorithm>
+
+1298986600 c:\users\jean-lucca\desktop\basico2d-codeblocks\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\jean-lucca\desktop\basico2d-codeblocks\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\jean-lucca\desktop\basico2d-codeblocks\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\jean-lucca\desktop\basico2d-codeblocks\gl\freeglut_ext.h
+
+1629228860 c:\users\jean-lucca\desktop\basico2d-codeblocks\ponto.h
+	<iostream>
+
+1630445646 c:\users\jean-lucca\desktop\basico2d-codeblocks\linha.h
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+
+1629314366 c:\users\jean-lucca\desktop\basico2d-codeblocks\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1630544681 source:c:\users\jean-lucca\desktop\basico2d-codeblocks\linha.cpp
+	<cstdlib>
+	"Linha.h"
+
+1621520030 source:c:\users\jean-lucca\desktop\basico2d-codeblocks\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1621514488 c:\users\jean-lucca\desktop\basico2d-codeblocks\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1621479118 source:c:\users\jean-lucca\desktop\basico2d-codeblocks\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1621479098 c:\users\jean-lucca\desktop\basico2d-codeblocks\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1619656962 source:c:\users\jean-lucca\desktop\basico2d-codeblocks\ponto.cpp
+	"Ponto.h"
+
+1629314366 source:c:\users\jean-lucca\desktop\basico2d-codeblocks\temporizador.cpp
+	"Temporizador.h"
+
+1630540300 c:\users\jean-lucca\desktop\basico2d-codeblocks\faixas.h
+	<vector>
+	<algorithm>
+	<iostream>
+
+1630544681 source:c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\linha.cpp
+	<cstdlib>
+	"Linha.h"
+
+1630445646 c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\linha.h
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+
+1298986600 c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\gl\freeglut_ext.h
+
+1621520030 source:c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1621514488 c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1621479118 source:c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1621479098 c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1629228860 c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\ponto.h
+	<iostream>
+
+1619656962 source:c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\ponto.cpp
+	"Ponto.h"
+
+1629314366 source:c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\temporizador.cpp
+	"Temporizador.h"
+
+1629314366 c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1630616699 source:c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\interseccaoentretodasaslinhas.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Linha.h"
+	"Faixas.h"
+	"Temporizador.h"
+	<vector>
+	<math.h>
+	<algorithm>
+
+1630627911 c:\users\jean-lucca\desktop\com aabb e divisao no eixo x\faixas.h
+	<vector>
+	<algorithm>
+	<iostream>
+
+1631820102 source:c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\app.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Linha.h"
+	"Faixas.h"
+	"Temporizador.h"
+	<vector>
+	<math.h>
+	<algorithm>
+
+1298986600 c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\gl\freeglut_ext.h
+
+1629228860 c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\ponto.h
+	<iostream>
+
+1630445646 c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\linha.h
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+
+1630627911 c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\faixas.h
+	<vector>
+	<algorithm>
+	<iostream>
+
+1629314366 c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1630544681 source:c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\linha.cpp
+	<cstdlib>
+	"Linha.h"
+
+1621520030 source:c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1621514488 c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1619656962 source:c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\ponto.cpp
+	"Ponto.h"
+
+1629314366 source:c:\users\jean-lucca\desktop\jeanluccauchaki - t1\fonte\temporizador.cpp
+	"Temporizador.h"
+
